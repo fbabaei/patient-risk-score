@@ -3,7 +3,7 @@ import pandas as pd
 import pickle
 import os
 
-st.title("🏥 Patient Readmission Risk Predictor")
+st.title("🏥 Patient Risk Predictor")
 
 # ------------------------------
 # Load model and scaler safely
