@@ -1,4 +1,4 @@
-# 🏥 Patient Readmission Risk Predictor
+# 🏥 Patient Risk score / Predictor
 
 Predicts hospital readmission risk using patient health data.
 
